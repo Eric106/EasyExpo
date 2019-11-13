@@ -1,6 +1,5 @@
 package mx.keri.easyexpo
 
-import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
@@ -16,7 +15,6 @@ import kotlinx.android.synthetic.main.activity_info_museo.*
 import kotlinx.android.synthetic.main.activity_info_obra.*
 import java.util.*
 import kotlin.collections.ArrayList
-import kotlinx.android.synthetic.main.activity_info_obra.tvObra as tvObra1
 
 class infoObra : AppCompatActivity() {
 
@@ -88,7 +86,7 @@ class infoObra : AppCompatActivity() {
                     if (info_museo!= null){
                         Log.d("Why",info_museo.toString())
 
-                        val tv = tvObra
+                        val tv = tvMuseo
                         tv.text = info_museo?.descripcion
                     }
                 } else{
