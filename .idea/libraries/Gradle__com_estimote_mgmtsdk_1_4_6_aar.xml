@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.estimote:mgmtsdk:1.4.6@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c7d060fb8bb71870723a13373b494326/mgmtsdk-1.4.6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c7d060fb8bb71870723a13373b494326/mgmtsdk-1.4.6/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.estimote/mgmtsdk/1.4.6/1bf29556c43e704723534cf4fe63bfb31944fbc5/mgmtsdk-1.4.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -2,6 +2,7 @@ package mx.keri.easyexpo
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.text.method.ScrollingMovementMethod
 import android.util.Log
 import com.estimote.coresdk.common.requirements.SystemRequirementsChecker
 import com.estimote.coresdk.observation.region.beacon.BeaconRegion
@@ -11,6 +12,7 @@ import com.google.firebase.database.DataSnapshot
 import com.google.firebase.database.DatabaseError
 import com.google.firebase.database.FirebaseDatabase
 import com.google.firebase.database.ValueEventListener
+import com.squareup.picasso.Picasso
 import kotlinx.android.synthetic.main.activity_info_museo.*
 import kotlinx.android.synthetic.main.activity_info_obra.*
 import java.util.*
@@ -68,26 +70,33 @@ class infoObra : AppCompatActivity() {
                 adm?.startRanging(region)
             }
         }
-
-
     }
 
     private fun actualizarDatos(nuevoTexto:String?) {
         var museito = intent.getStringExtra("Museo")
         Log.d("Why",museito)
-        Log.d("Why",nuevoTexto)
+        Log.d("Why", nuevoTexto)
 
+        var tvO = tvObra
+        var tvTituloO = tvTitutloObra
+        var imvO = ivObra
         val wal = FirebaseDatabase.getInstance().getReference("/${museito}/${nuevoTexto}")
         wal.addListenerForSingleValueEvent(object:ValueEventListener{
             override fun onDataChange(w0: DataSnapshot) {
                 if (w0.exists()){
                     val info_museo = w0.getValue(info::class.java)
+                    val info_obra = w0.getValue(Info::class.java)
 
                     if (info_museo!= null){
                         Log.d("Why",info_museo.toString())
 
                         val tv = tvMuseo
                         tv.text = info_museo?.descripcion
+
+                        tvO.text = info_obra?.Descripcion.toString()
+                        tvO.movementMethod = ScrollingMovementMethod()
+                        tvTituloO.text = info_obra?.Nombre.toString()
+                        Picasso.get().load(info_obra?.Imagen).into(imvO)
                     }
                 } else{
                     Log.d("Why","No existe")

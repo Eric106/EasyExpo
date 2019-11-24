@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">275394001820-tr48ltq8835s2ld6e059fpkti0vn4s6v.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://easyexpo-d1b05.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">275394001820</string>
+    <string name="google_api_key" translatable="false">AIzaSyBohw0Bt28YGtTS7d9-gr5-0W7LueBlJGc</string>
+    <string name="google_app_id" translatable="false">1:275394001820:android:5893bf056adf6978e6a659</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBohw0Bt28YGtTS7d9-gr5-0W7LueBlJGc</string>
+    <string name="google_storage_bucket" translatable="false">easyexpo-d1b05.appspot.com</string>
+    <string name="project_id" translatable="false">easyexpo-d1b05</string>
+</resources>

@@ -1,0 +1,381 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [com.estimote:sdk:1.4.8] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\0e024ab60402794830a13b75feba2e9b\sdk-1.4.8\AndroidManifest.xml:2:1-14:12
+MERGED from [com.estimote:mgmtsdk:1.4.6] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\c7d060fb8bb71870723a13373b494326\mgmtsdk-1.4.6\AndroidManifest.xml:2:1-29:12
+MERGED from [com.estimote:management-sdk:0.3.5] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\fe327aefb79173f23a2a65ce12dba84b\management-sdk-0.3.5\AndroidManifest.xml:2:1-14:12
+MERGED from [com.estimote:scanning-plugin:0.25.3] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\857d068320759a7cb35ae68e89b93427\scanning-plugin-0.25.3\AndroidManifest.xml:2:1-25:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\522701892a4bbafde9a0133cc6ab8a26\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\f5ee1c1098994cdbf4b7fb245ec97543\core-ktx-1.0.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\4cb2fbf0c846d0e140daf4806c2a7fc6\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\c4e32c104715d61a7d21a18ede17df28\jetified-picasso-2.71828\AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\61c4b7ede321d9279b5d754420c0389a\jetified-firebase-database-16.0.4\AndroidManifest.xml:15:1-25:12
+MERGED from [com.estimote:cloud-plugin:1.0.3] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\0d7fbdece00ae06fcfb63efd8638390a\cloud-plugin-1.0.3\AndroidManifest.xml:2:1-18:12
+MERGED from [com.estimote:internal-plugins-api:0.25.1] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\9fbefacf0a1d845710a588f0ed32f919\internal-plugins-api-0.25.1\AndroidManifest.xml:2:1-14:12
+MERGED from [com.estimote:coresdk:1.3.4] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\298958a7df078a12cde125d18407d638\coresdk-1.3.4\AndroidManifest.xml:2:1-34:12
+MERGED from [com.estimote:ketchup:0.5.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\c6000a2b3b799a06c2cbb0b0a3b3f587\ketchup-0.5.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\735f28921a22e687d43e69a831ebf063\jetified-play-services-base-16.0.1\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\af701378dff9ad17f80d00db0b8076c1\jetified-firebase-common-16.0.3\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\9fc0c69f94655ca1221c5fd4daf91f3c\jetified-play-services-tasks-16.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\9967ea77cf8002ef6b3e75a5f68652f2\firebase-database-collection-16.0.0\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\7c87959b7d108fa666b748fcc7057ad5\jetified-play-services-basement-16.0.1\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\c707a7a0b087dde8572c16fea7c5fefe\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\f6a722032ad79b93f1540e975fb5e40e\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\4761291c539f03a56d975abf08609755\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\7e64a1374847156dad5fa0de4dd347a1\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\7450466e0dc2b05f5beedc56a0c7eac5\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\0da5f6ca43bea614e811bba2050b47c3\vectordrawable-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\120fdf74bc84bc11b28b3c00583320e5\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\cda1463b0a0b2e2491a90f56f92f6383\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\fea4748a7089c7a881fbfd6804cc2f57\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\eedc4baf4885f10a23f93ba2d95cc5b5\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\064a02dc48fd3c6425e450680076169c\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\7a7e6bcc423d35e423634d11cfc55a9d\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\36f31caa9b64713ec8096c5c9cd3250a\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\5b07cf0dd8b7b612692e2688d6c9e31a\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\a2f97b4c72a64f9618b3da67c762cb6c\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.2] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\7a414006bbc6313af5176628555fa0d3\core-1.0.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\f57dc6278f6e4852446687079315cf8a\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\49423455ca091a4c5509222d08fe8e46\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\2bfecde355ba0a90ff8281dbcceeeaf2\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\6f621aed4ff0cda8473c2e29d3ceb822\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\82aa4cfa1a0c520ac399b0f3d83ba459\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\1704edf55635dc51c35dba94f7821244\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\f35b9bc74fd9f9b447b9d561395b1c52\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\f39d61f63de74dfe4f4560f849830416\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\cbfdebd13ee7501bb4680f1bac3ee237\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\444490b67af81f53816de2681bde6269\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\eb5ca75eeb61f6bbbb37c75fe94bbd80\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\d93158dab65e220daab9a4631c0df272\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\e1c5ca00b1052f14ba112b857d0159f2\rxandroid-2.0.1\AndroidManifest.xml:15:1-21:12
+MERGED from [com.wojtek.wawerek:skald-logcat-plugin:0.1.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\8be89e525b7c3fbf7b1ba3161915d753\skald-logcat-plugin-0.1.0\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:5:5-6:23
+	android:name
+		ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:5:22-78
+application
+ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:8:5-28:19
+MERGED from [com.estimote:sdk:1.4.8] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\0e024ab60402794830a13b75feba2e9b\sdk-1.4.8\AndroidManifest.xml:11:5-12:19
+MERGED from [com.estimote:sdk:1.4.8] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\0e024ab60402794830a13b75feba2e9b\sdk-1.4.8\AndroidManifest.xml:11:5-12:19
+MERGED from [com.estimote:mgmtsdk:1.4.6] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\c7d060fb8bb71870723a13373b494326\mgmtsdk-1.4.6\AndroidManifest.xml:22:5-27:19
+MERGED from [com.estimote:mgmtsdk:1.4.6] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\c7d060fb8bb71870723a13373b494326\mgmtsdk-1.4.6\AndroidManifest.xml:22:5-27:19
+MERGED from [com.estimote:management-sdk:0.3.5] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\fe327aefb79173f23a2a65ce12dba84b\management-sdk-0.3.5\AndroidManifest.xml:11:5-12:19
+MERGED from [com.estimote:management-sdk:0.3.5] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\fe327aefb79173f23a2a65ce12dba84b\management-sdk-0.3.5\AndroidManifest.xml:11:5-12:19
+MERGED from [com.estimote:scanning-plugin:0.25.3] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\857d068320759a7cb35ae68e89b93427\scanning-plugin-0.25.3\AndroidManifest.xml:18:5-23:19
+MERGED from [com.estimote:scanning-plugin:0.25.3] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\857d068320759a7cb35ae68e89b93427\scanning-plugin-0.25.3\AndroidManifest.xml:18:5-23:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\4cb2fbf0c846d0e140daf4806c2a7fc6\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\4cb2fbf0c846d0e140daf4806c2a7fc6\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\c4e32c104715d61a7d21a18ede17df28\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\c4e32c104715d61a7d21a18ede17df28\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.estimote:cloud-plugin:1.0.3] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\0d7fbdece00ae06fcfb63efd8638390a\cloud-plugin-1.0.3\AndroidManifest.xml:15:5-16:19
+MERGED from [com.estimote:cloud-plugin:1.0.3] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\0d7fbdece00ae06fcfb63efd8638390a\cloud-plugin-1.0.3\AndroidManifest.xml:15:5-16:19
+MERGED from [com.estimote:internal-plugins-api:0.25.1] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\9fbefacf0a1d845710a588f0ed32f919\internal-plugins-api-0.25.1\AndroidManifest.xml:11:5-12:19
+MERGED from [com.estimote:internal-plugins-api:0.25.1] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\9fbefacf0a1d845710a588f0ed32f919\internal-plugins-api-0.25.1\AndroidManifest.xml:11:5-12:19
+MERGED from [com.estimote:coresdk:1.3.4] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\298958a7df078a12cde125d18407d638\coresdk-1.3.4\AndroidManifest.xml:22:5-32:19
+MERGED from [com.estimote:coresdk:1.3.4] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\298958a7df078a12cde125d18407d638\coresdk-1.3.4\AndroidManifest.xml:22:5-32:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\735f28921a22e687d43e69a831ebf063\jetified-play-services-base-16.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\735f28921a22e687d43e69a831ebf063\jetified-play-services-base-16.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\af701378dff9ad17f80d00db0b8076c1\jetified-firebase-common-16.0.3\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\af701378dff9ad17f80d00db0b8076c1\jetified-firebase-common-16.0.3\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\9fc0c69f94655ca1221c5fd4daf91f3c\jetified-play-services-tasks-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\9fc0c69f94655ca1221c5fd4daf91f3c\jetified-play-services-tasks-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\7c87959b7d108fa666b748fcc7057ad5\jetified-play-services-basement-16.0.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\7c87959b7d108fa666b748fcc7057ad5\jetified-play-services-basement-16.0.1\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.2] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\7a414006bbc6313af5176628555fa0d3\core-1.0.2\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.2] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\7a414006bbc6313af5176628555fa0d3\core-1.0.2\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\f57dc6278f6e4852446687079315cf8a\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\f57dc6278f6e4852446687079315cf8a\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.2] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\7a414006bbc6313af5176628555fa0d3\core-1.0.2\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:14:9-40
+activity#mx.keri.easyexpo.infoObra
+ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:15:9-55
+	android:name
+		ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:15:19-43
+activity#mx.keri.easyexpo.infoMuseo
+ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:16:9-47
+	android:name
+		ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:16:19-44
+activity#mx.keri.easyexpo.fragmento_about
+ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:17:9-53
+	android:name
+		ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:17:19-50
+activity#mx.keri.easyexpo.museos
+ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:18:9-44
+	android:name
+		ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:18:19-41
+activity#mx.keri.easyexpo.activity_splash
+ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:19:9-27:20
+	android:theme
+		ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:21:13-69
+	android:name
+		ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:20:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:25:27-74
+uses-sdk
+INJECTED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml
+MERGED from [com.estimote:sdk:1.4.8] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\0e024ab60402794830a13b75feba2e9b\sdk-1.4.8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.estimote:sdk:1.4.8] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\0e024ab60402794830a13b75feba2e9b\sdk-1.4.8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.estimote:mgmtsdk:1.4.6] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\c7d060fb8bb71870723a13373b494326\mgmtsdk-1.4.6\AndroidManifest.xml:7:5-43
+MERGED from [com.estimote:mgmtsdk:1.4.6] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\c7d060fb8bb71870723a13373b494326\mgmtsdk-1.4.6\AndroidManifest.xml:7:5-43
+MERGED from [com.estimote:management-sdk:0.3.5] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\fe327aefb79173f23a2a65ce12dba84b\management-sdk-0.3.5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.estimote:management-sdk:0.3.5] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\fe327aefb79173f23a2a65ce12dba84b\management-sdk-0.3.5\AndroidManifest.xml:7:5-9:41
+MERGED from [com.estimote:scanning-plugin:0.25.3] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\857d068320759a7cb35ae68e89b93427\scanning-plugin-0.25.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.estimote:scanning-plugin:0.25.3] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\857d068320759a7cb35ae68e89b93427\scanning-plugin-0.25.3\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\522701892a4bbafde9a0133cc6ab8a26\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\522701892a4bbafde9a0133cc6ab8a26\appcompat-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\f5ee1c1098994cdbf4b7fb245ec97543\core-ktx-1.0.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\f5ee1c1098994cdbf4b7fb245ec97543\core-ktx-1.0.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\4cb2fbf0c846d0e140daf4806c2a7fc6\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\4cb2fbf0c846d0e140daf4806c2a7fc6\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\c4e32c104715d61a7d21a18ede17df28\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\c4e32c104715d61a7d21a18ede17df28\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\61c4b7ede321d9279b5d754420c0389a\jetified-firebase-database-16.0.4\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\61c4b7ede321d9279b5d754420c0389a\jetified-firebase-database-16.0.4\AndroidManifest.xml:18:5-20:41
+MERGED from [com.estimote:cloud-plugin:1.0.3] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\0d7fbdece00ae06fcfb63efd8638390a\cloud-plugin-1.0.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.estimote:cloud-plugin:1.0.3] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\0d7fbdece00ae06fcfb63efd8638390a\cloud-plugin-1.0.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.estimote:internal-plugins-api:0.25.1] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\9fbefacf0a1d845710a588f0ed32f919\internal-plugins-api-0.25.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.estimote:internal-plugins-api:0.25.1] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\9fbefacf0a1d845710a588f0ed32f919\internal-plugins-api-0.25.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.estimote:coresdk:1.3.4] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\298958a7df078a12cde125d18407d638\coresdk-1.3.4\AndroidManifest.xml:7:5-43
+MERGED from [com.estimote:coresdk:1.3.4] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\298958a7df078a12cde125d18407d638\coresdk-1.3.4\AndroidManifest.xml:7:5-43
+MERGED from [com.estimote:ketchup:0.5.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\c6000a2b3b799a06c2cbb0b0a3b3f587\ketchup-0.5.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.estimote:ketchup:0.5.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\c6000a2b3b799a06c2cbb0b0a3b3f587\ketchup-0.5.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\735f28921a22e687d43e69a831ebf063\jetified-play-services-base-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\735f28921a22e687d43e69a831ebf063\jetified-play-services-base-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\af701378dff9ad17f80d00db0b8076c1\jetified-firebase-common-16.0.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\af701378dff9ad17f80d00db0b8076c1\jetified-firebase-common-16.0.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\9fc0c69f94655ca1221c5fd4daf91f3c\jetified-play-services-tasks-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\9fc0c69f94655ca1221c5fd4daf91f3c\jetified-play-services-tasks-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\9967ea77cf8002ef6b3e75a5f68652f2\firebase-database-collection-16.0.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\9967ea77cf8002ef6b3e75a5f68652f2\firebase-database-collection-16.0.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\7c87959b7d108fa666b748fcc7057ad5\jetified-play-services-basement-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\7c87959b7d108fa666b748fcc7057ad5\jetified-play-services-basement-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\c707a7a0b087dde8572c16fea7c5fefe\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\c707a7a0b087dde8572c16fea7c5fefe\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\f6a722032ad79b93f1540e975fb5e40e\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\f6a722032ad79b93f1540e975fb5e40e\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\4761291c539f03a56d975abf08609755\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\4761291c539f03a56d975abf08609755\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\7e64a1374847156dad5fa0de4dd347a1\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\7e64a1374847156dad5fa0de4dd347a1\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\7450466e0dc2b05f5beedc56a0c7eac5\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\7450466e0dc2b05f5beedc56a0c7eac5\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\0da5f6ca43bea614e811bba2050b47c3\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\0da5f6ca43bea614e811bba2050b47c3\vectordrawable-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\120fdf74bc84bc11b28b3c00583320e5\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\120fdf74bc84bc11b28b3c00583320e5\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\cda1463b0a0b2e2491a90f56f92f6383\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\cda1463b0a0b2e2491a90f56f92f6383\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\fea4748a7089c7a881fbfd6804cc2f57\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\fea4748a7089c7a881fbfd6804cc2f57\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\eedc4baf4885f10a23f93ba2d95cc5b5\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\eedc4baf4885f10a23f93ba2d95cc5b5\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\064a02dc48fd3c6425e450680076169c\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\064a02dc48fd3c6425e450680076169c\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\7a7e6bcc423d35e423634d11cfc55a9d\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\7a7e6bcc423d35e423634d11cfc55a9d\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\36f31caa9b64713ec8096c5c9cd3250a\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\36f31caa9b64713ec8096c5c9cd3250a\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\5b07cf0dd8b7b612692e2688d6c9e31a\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\5b07cf0dd8b7b612692e2688d6c9e31a\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\a2f97b4c72a64f9618b3da67c762cb6c\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\a2f97b4c72a64f9618b3da67c762cb6c\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\7a414006bbc6313af5176628555fa0d3\core-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\7a414006bbc6313af5176628555fa0d3\core-1.0.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\f57dc6278f6e4852446687079315cf8a\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\f57dc6278f6e4852446687079315cf8a\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\49423455ca091a4c5509222d08fe8e46\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\49423455ca091a4c5509222d08fe8e46\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\2bfecde355ba0a90ff8281dbcceeeaf2\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\2bfecde355ba0a90ff8281dbcceeeaf2\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\6f621aed4ff0cda8473c2e29d3ceb822\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\6f621aed4ff0cda8473c2e29d3ceb822\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\82aa4cfa1a0c520ac399b0f3d83ba459\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\82aa4cfa1a0c520ac399b0f3d83ba459\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\1704edf55635dc51c35dba94f7821244\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\1704edf55635dc51c35dba94f7821244\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\f35b9bc74fd9f9b447b9d561395b1c52\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\f35b9bc74fd9f9b447b9d561395b1c52\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\f39d61f63de74dfe4f4560f849830416\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\f39d61f63de74dfe4f4560f849830416\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\cbfdebd13ee7501bb4680f1bac3ee237\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\cbfdebd13ee7501bb4680f1bac3ee237\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\444490b67af81f53816de2681bde6269\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\444490b67af81f53816de2681bde6269\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\eb5ca75eeb61f6bbbb37c75fe94bbd80\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\eb5ca75eeb61f6bbbb37c75fe94bbd80\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\d93158dab65e220daab9a4631c0df272\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\d93158dab65e220daab9a4631c0df272\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\e1c5ca00b1052f14ba112b857d0159f2\rxandroid-2.0.1\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\e1c5ca00b1052f14ba112b857d0159f2\rxandroid-2.0.1\AndroidManifest.xml:19:5-43
+MERGED from [com.wojtek.wawerek:skald-logcat-plugin:0.1.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\8be89e525b7c3fbf7b1ba3161915d753\skald-logcat-plugin-0.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.wojtek.wawerek:skald-logcat-plugin:0.1.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\8be89e525b7c3fbf7b1ba3161915d753\skald-logcat-plugin-0.1.0\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from [com.estimote:mgmtsdk:1.4.6] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\c7d060fb8bb71870723a13373b494326\mgmtsdk-1.4.6\AndroidManifest.xml:10:5-68
+MERGED from [com.estimote:scanning-plugin:0.25.3] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\857d068320759a7cb35ae68e89b93427\scanning-plugin-0.25.3\AndroidManifest.xml:12:5-68
+MERGED from [com.estimote:scanning-plugin:0.25.3] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\857d068320759a7cb35ae68e89b93427\scanning-plugin-0.25.3\AndroidManifest.xml:12:5-68
+MERGED from [com.estimote:coresdk:1.3.4] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\298958a7df078a12cde125d18407d638\coresdk-1.3.4\AndroidManifest.xml:10:5-68
+MERGED from [com.estimote:coresdk:1.3.4] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\298958a7df078a12cde125d18407d638\coresdk-1.3.4\AndroidManifest.xml:10:5-68
+	android:name
+		ADDED from [com.estimote:mgmtsdk:1.4.6] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\c7d060fb8bb71870723a13373b494326\mgmtsdk-1.4.6\AndroidManifest.xml:10:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from [com.estimote:mgmtsdk:1.4.6] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\c7d060fb8bb71870723a13373b494326\mgmtsdk-1.4.6\AndroidManifest.xml:11:5-74
+MERGED from [com.estimote:scanning-plugin:0.25.3] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\857d068320759a7cb35ae68e89b93427\scanning-plugin-0.25.3\AndroidManifest.xml:13:5-74
+MERGED from [com.estimote:scanning-plugin:0.25.3] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\857d068320759a7cb35ae68e89b93427\scanning-plugin-0.25.3\AndroidManifest.xml:13:5-74
+MERGED from [com.estimote:coresdk:1.3.4] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\298958a7df078a12cde125d18407d638\coresdk-1.3.4\AndroidManifest.xml:11:5-74
+MERGED from [com.estimote:coresdk:1.3.4] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\298958a7df078a12cde125d18407d638\coresdk-1.3.4\AndroidManifest.xml:11:5-74
+	android:name
+		ADDED from [com.estimote:mgmtsdk:1.4.6] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\c7d060fb8bb71870723a13373b494326\mgmtsdk-1.4.6\AndroidManifest.xml:11:22-71
+uses-permission-sdk-23#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [com.estimote:mgmtsdk:1.4.6] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\c7d060fb8bb71870723a13373b494326\mgmtsdk-1.4.6\AndroidManifest.xml:13:5-88
+MERGED from [com.estimote:scanning-plugin:0.25.3] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\857d068320759a7cb35ae68e89b93427\scanning-plugin-0.25.3\AndroidManifest.xml:16:5-88
+MERGED from [com.estimote:scanning-plugin:0.25.3] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\857d068320759a7cb35ae68e89b93427\scanning-plugin-0.25.3\AndroidManifest.xml:16:5-88
+MERGED from [com.estimote:coresdk:1.3.4] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\298958a7df078a12cde125d18407d638\coresdk-1.3.4\AndroidManifest.xml:13:5-88
+MERGED from [com.estimote:coresdk:1.3.4] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\298958a7df078a12cde125d18407d638\coresdk-1.3.4\AndroidManifest.xml:13:5-88
+	android:name
+		ADDED from [com.estimote:mgmtsdk:1.4.6] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\c7d060fb8bb71870723a13373b494326\mgmtsdk-1.4.6\AndroidManifest.xml:13:29-85
+uses-permission#android.permission.INTERNET
+ADDED from [com.estimote:mgmtsdk:1.4.6] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\c7d060fb8bb71870723a13373b494326\mgmtsdk-1.4.6\AndroidManifest.xml:15:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\61c4b7ede321d9279b5d754420c0389a\jetified-firebase-database-16.0.4\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\61c4b7ede321d9279b5d754420c0389a\jetified-firebase-database-16.0.4\AndroidManifest.xml:23:5-67
+MERGED from [com.estimote:cloud-plugin:1.0.3] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\0d7fbdece00ae06fcfb63efd8638390a\cloud-plugin-1.0.3\AndroidManifest.xml:12:5-67
+MERGED from [com.estimote:cloud-plugin:1.0.3] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\0d7fbdece00ae06fcfb63efd8638390a\cloud-plugin-1.0.3\AndroidManifest.xml:12:5-67
+MERGED from [com.estimote:coresdk:1.3.4] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\298958a7df078a12cde125d18407d638\coresdk-1.3.4\AndroidManifest.xml:15:5-67
+MERGED from [com.estimote:coresdk:1.3.4] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\298958a7df078a12cde125d18407d638\coresdk-1.3.4\AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from [com.estimote:mgmtsdk:1.4.6] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\c7d060fb8bb71870723a13373b494326\mgmtsdk-1.4.6\AndroidManifest.xml:15:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.estimote:mgmtsdk:1.4.6] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\c7d060fb8bb71870723a13373b494326\mgmtsdk-1.4.6\AndroidManifest.xml:16:5-79
+MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\61c4b7ede321d9279b5d754420c0389a\jetified-firebase-database-16.0.4\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-database:16.0.4] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\61c4b7ede321d9279b5d754420c0389a\jetified-firebase-database-16.0.4\AndroidManifest.xml:22:5-79
+MERGED from [com.estimote:cloud-plugin:1.0.3] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\0d7fbdece00ae06fcfb63efd8638390a\cloud-plugin-1.0.3\AndroidManifest.xml:13:5-79
+MERGED from [com.estimote:cloud-plugin:1.0.3] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\0d7fbdece00ae06fcfb63efd8638390a\cloud-plugin-1.0.3\AndroidManifest.xml:13:5-79
+MERGED from [com.estimote:coresdk:1.3.4] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\298958a7df078a12cde125d18407d638\coresdk-1.3.4\AndroidManifest.xml:16:5-79
+MERGED from [com.estimote:coresdk:1.3.4] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\298958a7df078a12cde125d18407d638\coresdk-1.3.4\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from [com.estimote:mgmtsdk:1.4.6] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\c7d060fb8bb71870723a13373b494326\mgmtsdk-1.4.6\AndroidManifest.xml:16:22-76
+uses-feature#android.hardware.bluetooth_le
+ADDED from [com.estimote:mgmtsdk:1.4.6] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\c7d060fb8bb71870723a13373b494326\mgmtsdk-1.4.6\AndroidManifest.xml:18:5-20:36
+MERGED from [com.estimote:coresdk:1.3.4] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\298958a7df078a12cde125d18407d638\coresdk-1.3.4\AndroidManifest.xml:18:5-20:36
+MERGED from [com.estimote:coresdk:1.3.4] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\298958a7df078a12cde125d18407d638\coresdk-1.3.4\AndroidManifest.xml:18:5-20:36
+	android:required
+		ADDED from [com.estimote:mgmtsdk:1.4.6] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\c7d060fb8bb71870723a13373b494326\mgmtsdk-1.4.6\AndroidManifest.xml:20:9-33
+	android:name
+		ADDED from [com.estimote:mgmtsdk:1.4.6] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\c7d060fb8bb71870723a13373b494326\mgmtsdk-1.4.6\AndroidManifest.xml:19:9-53
+service#com.estimote.mgmtsdk.connection.strategy.DeviceConnectionProviderService
+ADDED from [com.estimote:mgmtsdk:1.4.6] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\c7d060fb8bb71870723a13373b494326\mgmtsdk-1.4.6\AndroidManifest.xml:23:9-25:40
+	android:exported
+		ADDED from [com.estimote:mgmtsdk:1.4.6] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\c7d060fb8bb71870723a13373b494326\mgmtsdk-1.4.6\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [com.estimote:mgmtsdk:1.4.6] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\c7d060fb8bb71870723a13373b494326\mgmtsdk-1.4.6\AndroidManifest.xml:24:13-100
+service#com.estimote.mgmtsdk.repackaged.dfu_v0_6_1.no.nordicsemi.android.dfu.DfuBaseService
+ADDED from [com.estimote:mgmtsdk:1.4.6] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\c7d060fb8bb71870723a13373b494326\mgmtsdk-1.4.6\AndroidManifest.xml:26:9-119
+	android:name
+		ADDED from [com.estimote:mgmtsdk:1.4.6] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\c7d060fb8bb71870723a13373b494326\mgmtsdk-1.4.6\AndroidManifest.xml:26:18-116
+service#com.estimote.scanning_plugin.packet_provider.service.PacketProviderWrapperService
+ADDED from [com.estimote:scanning-plugin:0.25.3] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\857d068320759a7cb35ae68e89b93427\scanning-plugin-0.25.3\AndroidManifest.xml:19:9-22:40
+	android:enabled
+		ADDED from [com.estimote:scanning-plugin:0.25.3] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\857d068320759a7cb35ae68e89b93427\scanning-plugin-0.25.3\AndroidManifest.xml:21:13-35
+	android:exported
+		ADDED from [com.estimote:scanning-plugin:0.25.3] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\857d068320759a7cb35ae68e89b93427\scanning-plugin-0.25.3\AndroidManifest.xml:22:13-37
+	android:name
+		ADDED from [com.estimote:scanning-plugin:0.25.3] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\857d068320759a7cb35ae68e89b93427\scanning-plugin-0.25.3\AndroidManifest.xml:20:13-109
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\c4e32c104715d61a7d21a18ede17df28\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\c4e32c104715d61a7d21a18ede17df28\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\c4e32c104715d61a7d21a18ede17df28\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\c4e32c104715d61a7d21a18ede17df28\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+service#com.estimote.coresdk.service.BeaconService
+ADDED from [com.estimote:coresdk:1.3.4] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\298958a7df078a12cde125d18407d638\coresdk-1.3.4\AndroidManifest.xml:23:9-25:40
+	android:exported
+		ADDED from [com.estimote:coresdk:1.3.4] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\298958a7df078a12cde125d18407d638\coresdk-1.3.4\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [com.estimote:coresdk:1.3.4] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\298958a7df078a12cde125d18407d638\coresdk-1.3.4\AndroidManifest.xml:24:13-70
+activity#com.estimote.coresdk.common.requirements.DefaultRequirementsCheckerCallback$Activity
+ADDED from [com.estimote:coresdk:1.3.4] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\298958a7df078a12cde125d18407d638\coresdk-1.3.4\AndroidManifest.xml:27:9-29:56
+	android:theme
+		ADDED from [com.estimote:coresdk:1.3.4] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\298958a7df078a12cde125d18407d638\coresdk-1.3.4\AndroidManifest.xml:29:13-53
+	android:name
+		ADDED from [com.estimote:coresdk:1.3.4] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\298958a7df078a12cde125d18407d638\coresdk-1.3.4\AndroidManifest.xml:28:13-112
+receiver#com.estimote.coresdk.scanning.scheduling.SystemAlarmManager$AlarmBroadcastReceiver
+ADDED from [com.estimote:coresdk:1.3.4] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\298958a7df078a12cde125d18407d638\coresdk-1.3.4\AndroidManifest.xml:31:9-119
+	android:name
+		ADDED from [com.estimote:coresdk:1.3.4] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\298958a7df078a12cde125d18407d638\coresdk-1.3.4\AndroidManifest.xml:31:19-116
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\735f28921a22e687d43e69a831ebf063\jetified-play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\735f28921a22e687d43e69a831ebf063\jetified-play-services-base-16.0.1\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\735f28921a22e687d43e69a831ebf063\jetified-play-services-base-16.0.1\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\735f28921a22e687d43e69a831ebf063\jetified-play-services-base-16.0.1\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\af701378dff9ad17f80d00db0b8076c1\jetified-firebase-common-16.0.3\AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\af701378dff9ad17f80d00db0b8076c1\jetified-firebase-common-16.0.3\AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\af701378dff9ad17f80d00db0b8076c1\jetified-firebase-common-16.0.3\AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\af701378dff9ad17f80d00db0b8076c1\jetified-firebase-common-16.0.3\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.3] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\af701378dff9ad17f80d00db0b8076c1\jetified-firebase-common-16.0.3\AndroidManifest.xml:11:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\7c87959b7d108fa666b748fcc7057ad5\jetified-play-services-basement-16.0.1\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\7c87959b7d108fa666b748fcc7057ad5\jetified-play-services-basement-16.0.1\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\7c87959b7d108fa666b748fcc7057ad5\jetified-play-services-basement-16.0.1\AndroidManifest.xml:24:13-58
