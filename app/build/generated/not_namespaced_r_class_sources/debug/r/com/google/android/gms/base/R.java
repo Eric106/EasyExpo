@@ -62,15 +62,15 @@ public final class R {
     public static final class id {
         private id() {}
 
-        public static final int adjust_height = 0x7f07001b;
-        public static final int adjust_width = 0x7f07001c;
-        public static final int auto = 0x7f070021;
-        public static final int dark = 0x7f070038;
-        public static final int icon_only = 0x7f07004e;
-        public static final int light = 0x7f07005b;
-        public static final int none = 0x7f070066;
-        public static final int standard = 0x7f07008f;
-        public static final int wide = 0x7f0700ab;
+        public static final int adjust_height = 0x7f07001a;
+        public static final int adjust_width = 0x7f07001b;
+        public static final int auto = 0x7f070020;
+        public static final int dark = 0x7f070036;
+        public static final int icon_only = 0x7f07004b;
+        public static final int light = 0x7f070058;
+        public static final int none = 0x7f070062;
+        public static final int standard = 0x7f07008b;
+        public static final int wide = 0x7f0700a6;
     }
     public static final class string {
         private string() {}

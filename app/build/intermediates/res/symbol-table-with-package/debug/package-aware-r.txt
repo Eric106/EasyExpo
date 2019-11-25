@@ -425,7 +425,6 @@ color material_grey_850
 color material_grey_900
 color notification_action_color_filter
 color notification_icon_bg_color
-color notification_material_background_media_default_color
 color primary_dark_material_dark
 color primary_dark_material_light
 color primary_material_dark
@@ -554,10 +553,6 @@ dimen notification_small_icon_size_as_large
 dimen notification_subtext_size
 dimen notification_top_pad
 dimen notification_top_pad_large_text
-dimen subtitle_corner_radius
-dimen subtitle_outline_width
-dimen subtitle_shadow_offset
-dimen subtitle_shadow_radius
 dimen tooltip_corner_radius
 dimen tooltip_horizontal_padding
 dimen tooltip_margin
@@ -701,7 +696,6 @@ id FUNCTION
 id META
 id SHIFT
 id SYM
-id action0
 id action_bar
 id action_bar_activity_content
 id action_bar_container
@@ -737,7 +731,6 @@ id btnMuseo
 id btnObra
 id button2
 id buttonPanel
-id cancel_action
 id center
 id center_horizontal
 id center_vertical
@@ -759,7 +752,6 @@ id direct
 id disableHome
 id edit_query
 id end
-id end_padder
 id expand_activities_button
 id expanded_menu
 id fill
@@ -792,7 +784,6 @@ id line3
 id listMode
 id list_item
 id lstMuseos
-id media_actions
 id message
 id middle
 id multiply
@@ -840,7 +831,6 @@ id src_in
 id src_over
 id standard
 id start
-id status_bar_latest_event_content
 id submenuarrow
 id submit_area
 id tabMode
@@ -911,17 +901,8 @@ layout activity_splash
 layout fragmento_about
 layout notification_action
 layout notification_action_tombstone
-layout notification_media_action
-layout notification_media_cancel_action
-layout notification_template_big_media
-layout notification_template_big_media_custom
-layout notification_template_big_media_narrow
-layout notification_template_big_media_narrow_custom
 layout notification_template_custom_big
 layout notification_template_icon_group
-layout notification_template_lines_media
-layout notification_template_media
-layout notification_template_media_custom
 layout notification_template_part_chronometer
 layout notification_template_part_time
 layout select_dialog_item_material
@@ -930,6 +911,7 @@ layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
 mipmap ic_launcher
 mipmap ic_launcher_round
+mipmap logo_app
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
@@ -1245,14 +1227,9 @@ style TextAppearance_AppCompat_Widget_Switch
 style TextAppearance_AppCompat_Widget_TextView_SpinnerItem
 style TextAppearance_Compat_Notification
 style TextAppearance_Compat_Notification_Info
-style TextAppearance_Compat_Notification_Info_Media
 style TextAppearance_Compat_Notification_Line2
-style TextAppearance_Compat_Notification_Line2_Media
-style TextAppearance_Compat_Notification_Media
 style TextAppearance_Compat_Notification_Time
-style TextAppearance_Compat_Notification_Time_Media
 style TextAppearance_Compat_Notification_Title
-style TextAppearance_Compat_Notification_Title_Media
 style TextAppearance_Widget_AppCompat_ExpandedMenu_Item
 style TextAppearance_Widget_AppCompat_Toolbar_Subtitle
 style TextAppearance_Widget_AppCompat_Toolbar_Title

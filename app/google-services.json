@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "275394001820",
+    "firebase_url": "https://easyexpo-d1b05.firebaseio.com",
+    "project_id": "easyexpo-d1b05",
+    "storage_bucket": "easyexpo-d1b05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275394001820:android:5893bf056adf6978e6a659",
+        "android_client_info": {
+          "package_name": "mx.keri.easyexpo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275394001820-357jv4ddp3shqic825uoitrppac2fn1k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.keri.easyexpo",
+            "certificate_hash": "a95db14d2d37b6d7a661ae7566ebd80a3407884a"
+          }
+        },
+        {
+          "client_id": "275394001820-tr48ltq8835s2ld6e059fpkti0vn4s6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBohw0Bt28YGtTS7d9-gr5-0W7LueBlJGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275394001820-tr48ltq8835s2ld6e059fpkti0vn4s6v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "275394001820-oc7n3amseub0dg1dqgu540rbnjuvu46u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "mx.itesm.PruebaFirebaseIOS"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
