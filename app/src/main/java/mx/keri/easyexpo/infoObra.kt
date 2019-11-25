@@ -80,18 +80,15 @@ class infoObra : AppCompatActivity() {
         var tvO = tvObra
         var tvTituloO = tvTitutloObra
         var imvO = ivObra
-        val wal = FirebaseDatabase.getInstance().getReference("/${museito}/${nuevoTexto}")
+        val wal = FirebaseDatabase.getInstance().getReference("/Obras/${museito}/${nuevoTexto}")
         wal.addListenerForSingleValueEvent(object:ValueEventListener{
             override fun onDataChange(w0: DataSnapshot) {
                 if (w0.exists()){
-                    val info_museo = w0.getValue(info::class.java)
+                    val info_museo = w0.getValue(infoObras::class.java)
                     val info_obra = w0.getValue(Info::class.java)
 
                     if (info_museo!= null){
                         Log.d("Why",info_museo.toString())
-
-                        val tv = tvMuseo
-                        tv.text = info_museo?.descripcion
 
                         tvO.text = info_obra?.Descripcion.toString()
                         tvO.movementMethod = ScrollingMovementMethod()
@@ -111,12 +108,11 @@ class infoObra : AppCompatActivity() {
             }
 
         })
-        var tv = tvObra
-        tv.text = nuevoTexto
+
     }
 
-    class info(var nombre:String?,var descripcion:String?){
-        constructor():this("","")
+    class infoObras(var Nombre:String?,var Descripcion:String?, var Imagen:String?, var Audio:String?){
+        constructor(): this("", "", "", "")
     }
 }
 

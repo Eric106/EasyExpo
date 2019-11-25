@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#CAC9C9"
+    android:background="#d6d7d7"
     tools:context=".infoObra">
 
     <Button
@@ -41,14 +41,14 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageButton2"
-        app:srcCompat="@mipmap/ic_launcher" />
+        app:srcCompat="@drawable/logo_app" />
 
     <TextView
         android:id="@+id/tvObra"
         android:layout_width="320dp"
         android:layout_height="182dp"
         android:layout_marginBottom="19dp"
-        android:text="TextView"
+        android:text="Presiona el botón para iniciar escaneo"
         android:textAlignment="center"
         android:textColor="@color/common_google_signin_btn_text_dark_focused"
         android:textSize="18sp"
@@ -65,7 +65,7 @@
         android:layout_marginEnd="7dp"
         android:layout_marginBottom="29dp"
         android:fontFamily="serif"
-        android:text="TextView"
+        android:text="Loading ..."
         android:textAlignment="center"
         android:textColor="@color/common_google_signin_btn_text_dark_focused"
         android:textSize="24sp"

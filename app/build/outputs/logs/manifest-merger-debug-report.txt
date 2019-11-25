@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:2:1-30:12
+ADDED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:2:1-30:12
 MERGED from [com.estimote:sdk:1.4.8] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\0e024ab60402794830a13b75feba2e9b\sdk-1.4.8\AndroidManifest.xml:2:1-14:12
 MERGED from [com.estimote:mgmtsdk:1.4.6] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\c7d060fb8bb71870723a13373b494326\mgmtsdk-1.4.6\AndroidManifest.xml:2:1-29:12
 MERGED from [com.estimote:management-sdk:0.3.5] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\fe327aefb79173f23a2a65ce12dba84b\management-sdk-0.3.5\AndroidManifest.xml:2:1-14:12
@@ -52,29 +52,29 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\karla\.g
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\d93158dab65e220daab9a4631c0df272\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\e1c5ca00b1052f14ba112b857d0159f2\rxandroid-2.0.1\AndroidManifest.xml:15:1-21:12
 MERGED from [com.wojtek.wawerek:skald-logcat-plugin:0.1.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\8be89e525b7c3fbf7b1ba3161915d753\skald-logcat-plugin-0.1.0\AndroidManifest.xml:2:1-11:12
-INJECTED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:2:1-30:12
 	package
-		ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:3:5-31
-		INJECTED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:2:1-30:12
-		INJECTED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:2:1-30:12
-		INJECTED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:5:5-6:23
+ADDED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:5:5-6:23
 	android:name
-		ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:5:22-78
+		ADDED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:5:22-78
 application
-ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:8:5-28:19
+ADDED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:8:5-28:19
 MERGED from [com.estimote:sdk:1.4.8] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\0e024ab60402794830a13b75feba2e9b\sdk-1.4.8\AndroidManifest.xml:11:5-12:19
 MERGED from [com.estimote:sdk:1.4.8] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\0e024ab60402794830a13b75feba2e9b\sdk-1.4.8\AndroidManifest.xml:11:5-12:19
 MERGED from [com.estimote:mgmtsdk:1.4.6] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\c7d060fb8bb71870723a13373b494326\mgmtsdk-1.4.6\AndroidManifest.xml:22:5-27:19
@@ -108,53 +108,53 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\ka
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.2] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\7a414006bbc6313af5176628555fa0d3\core-1.0.2\AndroidManifest.xml:22:18-86
 	android:supportsRtl
-		ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:13:9-35
 	android:label
-		ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:11:9-41
+		ADDED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:11:9-41
 	android:roundIcon
-		ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:12:9-54
+		ADDED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:12:9-54
 	android:icon
-		ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:10:9-43
+		ADDED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:10:9-43
 	android:allowBackup
-		ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:9:9-35
+		ADDED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:9:9-35
 	android:theme
-		ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:14:9-40
+		ADDED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:14:9-40
 activity#mx.keri.easyexpo.infoObra
-ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:15:9-55
+ADDED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:15:9-55
 	android:name
-		ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:15:19-43
+		ADDED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:15:19-43
 activity#mx.keri.easyexpo.infoMuseo
-ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:16:9-47
+ADDED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:16:9-47
 	android:name
-		ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:16:19-44
+		ADDED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:16:19-44
 activity#mx.keri.easyexpo.fragmento_about
-ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:17:9-53
+ADDED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:17:9-53
 	android:name
-		ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:17:19-50
+		ADDED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:17:19-50
 activity#mx.keri.easyexpo.museos
-ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:18:9-44
+ADDED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:18:9-44
 	android:name
-		ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:18:19-41
+		ADDED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:18:19-41
 activity#mx.keri.easyexpo.activity_splash
-ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:19:9-27:20
+ADDED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:19:9-27:20
 	android:theme
-		ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:21:13-69
+		ADDED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:21:13-69
 	android:name
-		ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:20:13-44
+		ADDED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:20:13-44
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:22:13-26:29
+ADDED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:22:13-26:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:23:17-69
+ADDED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:23:17-69
 	android:name
-		ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:23:25-66
+		ADDED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:23:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:25:17-77
+ADDED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:25:17-77
 	android:name
-		ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:25:27-74
+		ADDED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:25:27-74
 uses-sdk
-INJECTED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml
 MERGED from [com.estimote:sdk:1.4.8] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\0e024ab60402794830a13b75feba2e9b\sdk-1.4.8\AndroidManifest.xml:7:5-9:41
 MERGED from [com.estimote:sdk:1.4.8] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\0e024ab60402794830a13b75feba2e9b\sdk-1.4.8\AndroidManifest.xml:7:5-9:41
 MERGED from [com.estimote:mgmtsdk:1.4.6] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\c7d060fb8bb71870723a13373b494326\mgmtsdk-1.4.6\AndroidManifest.xml:7:5-43
@@ -251,16 +251,16 @@ MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\karla\.gradle\caches
 MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\e1c5ca00b1052f14ba112b857d0159f2\rxandroid-2.0.1\AndroidManifest.xml:19:5-43
 MERGED from [com.wojtek.wawerek:skald-logcat-plugin:0.1.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\8be89e525b7c3fbf7b1ba3161915d753\skald-logcat-plugin-0.1.0\AndroidManifest.xml:7:5-9:41
 MERGED from [com.wojtek.wawerek:skald-logcat-plugin:0.1.0] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\8be89e525b7c3fbf7b1ba3161915d753\skald-logcat-plugin-0.1.0\AndroidManifest.xml:7:5-9:41
-INJECTED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.BLUETOOTH
 ADDED from [com.estimote:mgmtsdk:1.4.6] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\c7d060fb8bb71870723a13373b494326\mgmtsdk-1.4.6\AndroidManifest.xml:10:5-68
 MERGED from [com.estimote:scanning-plugin:0.25.3] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\857d068320759a7cb35ae68e89b93427\scanning-plugin-0.25.3\AndroidManifest.xml:12:5-68

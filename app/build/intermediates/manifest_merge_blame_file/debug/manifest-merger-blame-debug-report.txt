@@ -6,13 +6,13 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="19"
-8-->C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml
+8-->C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="29" />
-9-->C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml
+9-->C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" >
-11-->C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:5:5-6:23
-11-->C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:5:22-78
+11-->C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:5:5-6:23
+11-->C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:5:22-78
 12    </uses-permission>
 13
 14    <!-- Needed for Bluetooth low energy scanning. -->
@@ -40,50 +40,50 @@
 23-->[com.estimote:mgmtsdk:1.4.6] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\c7d060fb8bb71870723a13373b494326\mgmtsdk-1.4.6\AndroidManifest.xml:20:9-33
 24
 25    <application
-25-->C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:8:5-28:19
+25-->C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:8:5-28:19
 26        android:allowBackup="true"
-26-->C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:9:9-35
+26-->C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:9:9-35
 27        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 27-->[androidx.core:core:1.0.2] C:\Users\karla\.gradle\caches\transforms-2\files-2.1\7a414006bbc6313af5176628555fa0d3\core-1.0.2\AndroidManifest.xml:22:18-86
 28        android:debuggable="true"
 29        android:icon="@mipmap/ic_launcher"
-29-->C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:10:9-43
+29-->C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:10:9-43
 30        android:label="@string/app_name"
-30-->C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:11:9-41
+30-->C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:11:9-41
 31        android:roundIcon="@mipmap/ic_launcher_round"
-31-->C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:12:9-54
+31-->C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:12:9-54
 32        android:supportsRtl="true"
-32-->C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:13:9-35
+32-->C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:13:9-35
 33        android:testOnly="true"
 34        android:theme="@style/AppTheme" >
-34-->C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:14:9-40
+34-->C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:14:9-40
 35        <activity android:name="mx.keri.easyexpo.infoObra" />
-35-->C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:15:9-55
-35-->C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:15:19-43
+35-->C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:15:9-55
+35-->C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:15:19-43
 36        <activity android:name="mx.keri.easyexpo.infoMuseo" />
-36-->C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:16:9-47
-36-->C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:16:19-44
+36-->C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:16:9-47
+36-->C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:16:19-44
 37        <activity android:name="mx.keri.easyexpo.fragmento_about" />
-37-->C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:17:9-53
-37-->C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:17:19-50
+37-->C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:17:9-53
+37-->C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:17:19-50
 38        <activity android:name="mx.keri.easyexpo.museos" />
-38-->C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:18:9-44
-38-->C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:18:19-41
+38-->C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:18:9-44
+38-->C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:18:19-41
 39        <activity
-39-->C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:19:9-27:20
+39-->C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:19:9-27:20
 40            android:name="mx.keri.easyexpo.activity_splash"
-40-->C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:20:13-44
+40-->C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:20:13-44
 41            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
-41-->C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:21:13-69
+41-->C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:21:13-69
 42            <intent-filter>
-42-->C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:22:13-26:29
+42-->C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:22:13-26:29
 43                <action android:name="android.intent.action.MAIN" />
-43-->C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:23:17-69
-43-->C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:23:25-66
+43-->C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:23:17-69
+43-->C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:23:25-66
 44
 45                <category android:name="android.intent.category.LAUNCHER" />
-45-->C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:25:17-77
-45-->C:\Users\karla\Documents\Septimo\EasyExpo-FinalProject\app\src\main\AndroidManifest.xml:25:27-74
+45-->C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:25:17-77
+45-->C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:25:27-74
 46            </intent-filter>
 47        </activity>
 48
