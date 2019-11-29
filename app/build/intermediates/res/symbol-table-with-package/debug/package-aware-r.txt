@@ -729,7 +729,6 @@ id blocking
 id bottom
 id btnMuseo
 id btnObra
-id button2
 id buttonPanel
 id center
 id center_horizontal
@@ -912,6 +911,7 @@ layout support_simple_spinner_dropdown_item
 mipmap ic_launcher
 mipmap ic_launcher_round
 mipmap logo_app
+raw cosaroja
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description

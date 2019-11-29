@@ -31,6 +31,11 @@ class museos : AppCompatActivity() {
             intObras.putExtra("Museo", nombreMuseo)
             startActivity(intObras)
         }
+
+//        btnInfo.setOnClickListener { view ->
+//            val about = Intent(baseContext, about_fragmento::class.java)
+//            startActivity(about)
+//        }
     }
 
     override fun onStart() {

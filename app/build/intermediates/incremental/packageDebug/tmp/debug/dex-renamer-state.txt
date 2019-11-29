@@ -1,7 +1,4 @@
-#Mon Nov 25 14:16:53 CST 2019
+#Fri Nov 29 11:18:28 CST 2019
 base.0=C\:\\Users\\karla\\Documents\\Septimo\\Moviles\\EasyExpo\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
-path.1=classes.dex
-renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
-base.1=C\:\\Users\\karla\\Documents\\Septimo\\Moviles\\EasyExpo\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex

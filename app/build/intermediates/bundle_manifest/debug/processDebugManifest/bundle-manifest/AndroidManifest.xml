@@ -33,7 +33,7 @@
         android:theme="@style/AppTheme" >
         <activity android:name="mx.keri.easyexpo.infoObra" />
         <activity android:name="mx.keri.easyexpo.infoMuseo" />
-        <activity android:name="mx.keri.easyexpo.fragmento_about" />
+        <activity android:name="mx.keri.easyexpo.about_fragmento" />
         <activity android:name="mx.keri.easyexpo.museos" />
         <activity
             android:name="mx.keri.easyexpo.activity_splash"

@@ -25,20 +25,20 @@ public final class R {
     public static final class string {
         private string() {}
 
-        public static final int app_name = 0x7f0b0027;
-        public static final int error_no_bluetooth_enabled = 0x7f0b003b;
-        public static final int error_no_bluetooth_le = 0x7f0b003c;
-        public static final int error_no_location_permission = 0x7f0b003d;
-        public static final int requesting_location_access = 0x7f0b0045;
-        public static final int requesting_location_access_cancel = 0x7f0b0046;
-        public static final int requesting_location_access_ok = 0x7f0b0047;
-        public static final int requesting_location_access_rationale = 0x7f0b0048;
-        public static final int requesting_location_permission = 0x7f0b0049;
-        public static final int requesting_location_permission_rationale = 0x7f0b004a;
+        public static final int app_name = 0x7f0c0027;
+        public static final int error_no_bluetooth_enabled = 0x7f0c003b;
+        public static final int error_no_bluetooth_le = 0x7f0c003c;
+        public static final int error_no_location_permission = 0x7f0c003d;
+        public static final int requesting_location_access = 0x7f0c0045;
+        public static final int requesting_location_access_cancel = 0x7f0c0046;
+        public static final int requesting_location_access_ok = 0x7f0c0047;
+        public static final int requesting_location_access_rationale = 0x7f0c0048;
+        public static final int requesting_location_permission = 0x7f0c0049;
+        public static final int requesting_location_permission_rationale = 0x7f0c004a;
     }
     public static final class style {
         private style() {}
 
-        public static final int Theme_Transparent = 0x7f0c0109;
+        public static final int Theme_Transparent = 0x7f0d0109;
     }
 }

@@ -61,7 +61,7 @@
 35        <activity android:name="mx.keri.easyexpo.infoMuseo" />
 35-->C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:15:9-47
 35-->C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:15:19-44
-36        <activity android:name="mx.keri.easyexpo.fragmento_about" />
+36        <activity android:name="mx.keri.easyexpo.about_fragmento" />
 36-->C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:16:9-53
 36-->C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:16:19-50
 37        <activity android:name="mx.keri.easyexpo.museos" />

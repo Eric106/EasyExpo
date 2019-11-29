@@ -9,16 +9,16 @@
 
     <Button
         android:id="@+id/btnObra"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="162dp"
-        android:layout_marginEnd="161dp"
-        android:layout_marginBottom="32dp"
-        android:text="Reanudar Busqueda"
-        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_width="154dp"
+        android:layout_height="63dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="16dp"
+        android:text="Iniciar Busqueda"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.515"
-        app:layout_constraintStart_toStartOf="parent" />
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tvObra" />
 
     <ImageButton
         android:id="@+id/imageButton2"
@@ -47,15 +47,15 @@
         android:id="@+id/tvObra"
         android:layout_width="320dp"
         android:layout_height="182dp"
-        android:layout_marginBottom="19dp"
+        android:layout_marginTop="16dp"
         android:text="Presiona el botón para iniciar escaneo"
         android:textAlignment="center"
         android:textColor="@color/common_google_signin_btn_text_dark_focused"
         android:textSize="18sp"
-        app:layout_constraintBottom_toTopOf="@+id/btnObra"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.516"
-        app:layout_constraintStart_toStartOf="parent" />
+        app:layout_constraintHorizontal_bias="0.483"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tvTitutloObra" />
 
     <TextView
         android:id="@+id/tvTitutloObra"
@@ -63,13 +63,11 @@
         android:layout_height="39dp"
         android:layout_marginTop="44dp"
         android:layout_marginEnd="7dp"
-        android:layout_marginBottom="29dp"
         android:fontFamily="serif"
         android:text="Loading ..."
         android:textAlignment="center"
         android:textColor="@color/common_google_signin_btn_text_dark_focused"
         android:textSize="24sp"
-        app:layout_constraintBottom_toTopOf="@+id/tvObra"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/ivObra" />

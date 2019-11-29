@@ -17,8 +17,13 @@ import kotlinx.android.synthetic.main.activity_info_museo.*
 import kotlinx.android.synthetic.main.activity_info_obra.*
 import java.util.*
 import kotlin.collections.ArrayList
+import  android.media.MediaPlayer
+import android.view.MotionEvent
+import android.view.View
 
 class infoObra : AppCompatActivity() {
+
+
 
     private var admBeacons: BeaconManager? = null
     private var region: BeaconRegion? = null
@@ -27,12 +32,16 @@ class infoObra : AppCompatActivity() {
     private var arrRSSI: ArrayList<String>? = null
 
     var closestRSSI: String? = null
-    var prevMajor:String? = null
     var closestMajor: String? = null
+    val mediaPlayer = MediaPlayer()
+    var nuevaLlave: String? = "  "
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_info_obra)
+
+
+
 
         admBeacons = BeaconManager(baseContext)
         region = BeaconRegion("MisBeaconCEM", UUID.fromString("B9407F30-F5F8-466E-AFF9-25556B57FE6D"), null, null)
@@ -49,7 +58,6 @@ class infoObra : AppCompatActivity() {
                     println("${beacon.toString()}")
                     arrBeacons?.add("${beacon?.major}")
                     arrRSSI?.add("${beacon?.major}")
-
                 }
 
                 closestMajor = arrBeacons?.get(0)
@@ -65,11 +73,15 @@ class infoObra : AppCompatActivity() {
 
             SystemRequirementsChecker.checkWithDefaultDialogs(this)
 
+            btnObra.text = "Escaneando"
+            tvObra.text = "Buscando la Obra más cercana"
+
             val adm = admBeacons
             admBeacons?.connect {
                 adm?.startRanging(region)
             }
         }
+
     }
 
     private fun actualizarDatos(nuevoTexto:String?) {
@@ -80,23 +92,40 @@ class infoObra : AppCompatActivity() {
         var tvO = tvObra
         var tvTituloO = tvTitutloObra
         var imvO = ivObra
+
+
         val wal = FirebaseDatabase.getInstance().getReference("/Obras/${museito}/${nuevoTexto}")
         wal.addListenerForSingleValueEvent(object:ValueEventListener{
             override fun onDataChange(w0: DataSnapshot) {
                 if (w0.exists()){
-                    val info_museo = w0.getValue(infoObras::class.java)
-                    val info_obra = w0.getValue(Info::class.java)
+                    val info_obra = w0.getValue(infoObras::class.java)
 
-                    if (info_museo!= null){
-                        Log.d("Why",info_museo.toString())
 
+                    if (info_obra!= null){
                         tvO.text = info_obra?.Descripcion.toString()
                         tvO.movementMethod = ScrollingMovementMethod()
                         tvTituloO.text = info_obra?.Nombre.toString()
                         Picasso.get().load(info_obra?.Imagen).into(imvO)
+
+                        if(nuevaLlave != nuevoTexto) {
+                            mediaPlayer.stop()
+                            mediaPlayer.reset()
+                            mediaPlayer.setDataSource(info_obra.Audio)
+                            mediaPlayer.prepare()
+                            if (!mediaPlayer.isPlaying){
+                                mediaPlayer.start()}
+                            nuevaLlave = nuevoTexto
+                        }
+
+
+
+
                     }
                 } else{
                     Log.d("Why","No existe")
+                    tvO.text = "Visita el museo ${museito} para aprender sobre sus obras."
+                    tvTituloO.text = "No estás en el museo"
+
                 }
 
 
@@ -111,8 +140,10 @@ class infoObra : AppCompatActivity() {
 
     }
 
+    }
+
     class infoObras(var Nombre:String?,var Descripcion:String?, var Imagen:String?, var Audio:String?){
         constructor(): this("", "", "", "")
     }
-}
+
 

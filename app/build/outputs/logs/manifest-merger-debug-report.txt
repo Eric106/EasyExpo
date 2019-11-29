@@ -128,7 +128,7 @@ activity#mx.keri.easyexpo.infoMuseo
 ADDED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:15:9-47
 	android:name
 		ADDED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:15:19-44
-activity#mx.keri.easyexpo.fragmento_about
+activity#mx.keri.easyexpo.about_fragmento
 ADDED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:16:9-53
 	android:name
 		ADDED from C:\Users\karla\Documents\Septimo\Moviles\EasyExpo\app\src\main\AndroidManifest.xml:16:19-50

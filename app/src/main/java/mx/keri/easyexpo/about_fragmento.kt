@@ -20,12 +20,12 @@ private const val ARG_PARAM2 = "param2"
  * A simple [Fragment] subclass.
  *
  */
-class fragmento_about : Fragment() {
+class about_fragmento : Fragment() {
 
     //indice objeto que se muestra
     var indice = 0
         set(value) {
-            field = value;
+            field = value
         }
 
     override fun onCreateView(

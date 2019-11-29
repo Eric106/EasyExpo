@@ -1636,6 +1636,10 @@
         "source": "C:\\Users\\karla\\.gradle\\caches\\transforms-2\\files-2.1\\7a414006bbc6313af5176628555fa0d3\\core-1.0.2\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
+        "merged": "C:\\Users\\karla\\Documents\\Septimo\\Moviles\\EasyExpo\\app\\build\\intermediates\\res\\merged\\debug\\raw_cosaroja.mp4.flat",
+        "source": "C:\\Users\\karla\\Documents\\Septimo\\Moviles\\EasyExpo\\app\\src\\main\\res\\raw\\cosaroja.mp4"
+    },
+    {
         "merged": "C:\\Users\\karla\\Documents\\Septimo\\Moviles\\EasyExpo\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_vector_test.xml.flat",
         "source": "C:\\Users\\karla\\.gradle\\caches\\transforms-2\\files-2.1\\522701892a4bbafde9a0133cc6ab8a26\\appcompat-1.0.2\\res\\drawable\\abc_vector_test.xml"
     },

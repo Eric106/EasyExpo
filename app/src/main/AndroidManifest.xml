@@ -13,7 +13,7 @@
         android:theme="@style/AppTheme">
         <activity android:name=".infoObra"></activity>
         <activity android:name=".infoMuseo" />
-        <activity android:name=".fragmento_about" />
+        <activity android:name=".about_fragmento" />
         <activity android:name=".museos" />
         <activity
             android:name=".activity_splash"
